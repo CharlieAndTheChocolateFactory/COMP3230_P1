@@ -1,2 +1,3 @@
 # COMP3230_P2
 Project 2 of COMP3230, building a shell using C code
+THe program achieve greatest performance when utilizing 4 threads.
