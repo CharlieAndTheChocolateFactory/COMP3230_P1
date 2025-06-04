@@ -2,9 +2,7 @@
 
 A parallelized implementation of the LLaMA2 transformer model using POSIX threads for optimized matrix-vector multiplication operations in attention mechanisms and feed-forward networks.
 
-## Author Information
-- **Name**: Wong Chor Sing
-- **UID**: 3035790769
+## Background Information
 - **Development Platform**: VSCode on macOS
 - **Course**: COMP3230 Operating Systems
 - **Assignment**: Programming Assignment 2
